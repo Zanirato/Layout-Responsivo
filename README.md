@@ -8,19 +8,34 @@ A segunda atividade foi a de tela de login, onde foi produzida uma tela de login
 
 
 * __1. Atividade Aquário__
+
+ 
   Telas desktop
+
+  
 ![Captura de tela 2024-11-12 085600](https://github.com/user-attachments/assets/fa97bd27-e842-45db-a0cf-a1c7c2791f4b)
 
+
+
+
   Telas mobile
+
+  
 ![Captura de tela 2024-11-12 085800](https://github.com/user-attachments/assets/9efc1024-1f37-41b6-b7dc-e3afd5506374)
 
 
   
 * __2. Atividade Tela de Login__
+
+  
   Telas desktop
+
+  
 ![Captura de tela 2024-11-12 085631](https://github.com/user-attachments/assets/1bd43a7e-5f81-4c8a-a9f3-5ac0cf84bd4b)
 
 
   Telas mobile
+
+  
 ![Captura de tela 2024-11-12 085740](https://github.com/user-attachments/assets/0a815744-f187-4af8-b9e2-64797a89ae43)
 
